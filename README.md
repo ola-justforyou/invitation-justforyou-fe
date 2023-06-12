@@ -1,6 +1,6 @@
 # Justforyou.id
 
-Justforyou is digital invitation
+Invitation Justforyou is template desgin web digital invitation
 
 ## Demo
 
@@ -15,13 +15,13 @@ Justforyou is digital invitation
 Clone the project
 
 ```bash
-git clone https://github.com/ola-justforyou/justforyou-fe.git
+git clone https://github.com/ola-justforyou/invitation-justforyou-fe.git
 ```
 
 Go to the project directory
 
 ```bash
-cd justforyou-fe
+cd invitation-justforyou-fe
 ```
 
 Install dependencies
